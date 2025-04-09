@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "fastapi_swot"
-version = "0.0.6"
+version = "0.0.7"
 authors = [
   { name="Harry Dang", email="harrydang.tech@gmail.com" },
 ]
@@ -23,5 +23,5 @@ classifiers = [
 dependencies=[]
 
 [project.urls]
-"Homepage" = "https://github.com/harrylowkey/fastapi-swot"
-"Bug Tracker" = "https://github.com/harrylowkey/fastapi-swot/issues"
+"Homepage" = "https://github.com/harrylowkey/fastapi_swot"
+"Bug Tracker" = "https://github.com/harrylowkey/fastapi_swot/issues"
